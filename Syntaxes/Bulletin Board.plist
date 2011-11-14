@@ -6,18 +6,6 @@
 	<array>
 		<string>bbcode</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(?x)
-        (\[(?i:quote|code|list)\b.*?\]
-        |&lt;!--(?!.*--&gt;)
-        |\{\s*($|\?&gt;\s*$|//|/\*(.*\*/\s*$|(?!.*?\*/)))
-        )</string>
-	<key>foldingStopMarker</key>
-	<string>(?x)
-        (\[/(?i:quote|code|list)\b.*?\]
-        |^\s*--&gt;
-        |(^|\s)\}
-        )</string>
 	<key>keyEquivalent</key>
 	<string>^~B</string>
 	<key>name</key>
